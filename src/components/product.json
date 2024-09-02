@@ -1,0 +1,17 @@
+[
+    {
+        "name":"mobile",
+        "brand":"samsung",
+        "price":10000
+    },
+    {
+        "name":"mobile",
+        "brand":"realme",
+        "price":50000
+    },
+    {
+        "name":"mobile",
+        "brand":"mi",
+        "price":90000
+    }
+]

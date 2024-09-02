@@ -1,0 +1,145 @@
+[
+  {
+    "image": "https://images-cdn.ubuy.co.in/65298de4c2a95d6f4a4973b0-like-new-samsung-galaxy-s20-5g-sm-g98u1.jpg",
+    "title": "Samsung Galaxy S20",
+    "description": "The iPhone 11 features a dual-camera system, A13 Bionic chip, and an all-day battery life.",
+    "price": "$699",
+    "category": "Smartphone",
+    "color": "Black"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=90&crop=false",
+    "title": "iPhone 11",
+    "description": "The Samsung Galaxy S20 boasts a stunning 6.2-inch Quad HD+ Dynamic AMOLED display and a versatile triple camera setup.",
+    "price": "$999",
+    "category": "Smartphone",
+    "color": "Cosmic Gray"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/633abedfb78c2a21d14ece32-google-pixel-4-xl-clearly-white-64gb.jpg",
+    "title": "Google Pixel 4",
+    "description": "The Google Pixel 4 offers an exceptional camera experience with Night Sight and Astrophotography capabilities.",
+    "price": "$799",
+    "category": "Smartphone",
+    "color": "Just Black"
+  },
+  {
+    "image": "https://images-cdn.ubuy.co.in/65f02c70a92e114fdf413b2c-oneplus-8t-5g-unlocked-android.jpg",
+    "title": "OnePlus 8T",
+    "description": "The OnePlus 8T features a 120Hz Fluid AMOLED display, Snapdragon 865 chipset, and Warp Charge 65T fast charging.",
+    "price": "$749",
+    "category": "Smartphone",
+    "color": "Aquamarine Green"
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/850/1000/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=90&crop=false",
+    "title": "iPhone 12",
+    "description": "The iPhone 12 introduces 5G speed, Ceramic Shield technology, and the powerful A14 Bionic chip.",
+    "price": "$799",
+    "category": "Smartphone",
+    "color": "Blue"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHRJgBhu4KGaZ-Y3JHocLMb7yGN5rHOmv4KuoJINuvcw&s",
+    "title": "Samsung Galaxy Note 20",
+    "description": "The Samsung Galaxy Note 20 combines productivity with entertainment, featuring an S Pen and a stunning AMOLED display.",
+    "price": "$999",
+    "category": "Smartphone",
+    "color": "Mystic Bronze"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/614cCf6bzyL._AC_UF1000,1000_QL80_.jpg",
+    "title": "OnePlus 9 Pro",
+    "description": "The OnePlus 9 Pro boasts Hasselblad camera technology, Warp Charge 65T, and a 120Hz Fluid Display.",
+    "price": "$969",
+    "category": "Smartphone",
+    "color": "Morning Mist"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81-fNmQqlLL._AC_UF1000,1000_QL80_.jpg",
+    "title": "Google Pixel 5",
+    "description": "The Google Pixel 5 offers 5G connectivity, a dual-camera system, and all-day battery life.",
+    "price": "$699",
+    "category": "Smartphone",
+    "color": "Sorta Sage"
+  },
+  {
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-mini-white-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202805000",
+    "title": "iPhone 12 Mini",
+    "description": "The iPhone 12 Mini packs all the features of the iPhone 12 into a compact design, perfect for one-handed use.",
+    "price": "$699",
+    "category": "Smartphone",
+    "color": "White"
+  },
+  {
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-474118709?$650_519_PNG$",
+    "title": "Samsung Galaxy Z Fold 3",
+    "description": "The Samsung Galaxy Z Fold 3 unfolds into a 7.6-inch tablet, offering multitasking capabilities and S Pen compatibility.",
+    "price": "$1799",
+    "category": "Foldable Smartphone",
+    "color": "Phantom Black"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL._AC_UF1000,1000_QL80_.jpg",
+    "title": "OnePlus Nord",
+    "description": "The OnePlus Nord features a 90Hz Fluid AMOLED display, Snapdragon 765G chipset, and quad-camera setup.",
+    "price": "$399",
+    "category": "Smartphone",
+    "color": "Blue Marble"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoK009oQHQaQOyDphL8VedwGB1PuUj5NCdSnyhESBAkw&s",
+    "title": "Sony Xperia 1 II",
+    "description": "The Sony Xperia 1 II boasts a 4K OLED display, Zeiss optics, and advanced camera features for photography enthusiasts.",
+    "price": "$1199",
+    "category": "Smartphone",
+    "color": "Black"
+  },
+  {
+    "image": "https://example.com/iphone12pro.jpghttps://rukminim2.flixcart.com/image/850/1000/kg8avm80/mobile/u/q/d/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrbzjgug4j.jpeg?q=90&crop=false",
+    "title": "iPhone 12 Pro",
+    "description": "The iPhone 12 Pro features a LiDAR scanner, ProRAW capability, and a triple-camera system for professional-grade photography.",
+    "price": "$999",
+    "category": "Smartphone",
+    "color": "Pacific Blue"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbjqoFDY8DwLU71rl3gU-vvMW07Z93m2W1scgfQcDtw&s",
+    "title": "Xiaomi Mi 11",
+    "description": "The Xiaomi Mi 11 boasts a Snapdragon 888 chipset, a 108MP triple-camera setup, and a stunning AMOLED display.",
+    "price": "$749",
+    "category": "Smartphone",
+    "color": "Horizon Blue"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5dg1DjdNaJVJHtSibAduHLaybHBm8Sc1CdXUAl-urA&s",
+    "title": "iPhone 12 Pro Max",
+    "description": "The iPhone 12 Pro Max offers the largest display ever on an iPhone, along with advanced camera features and 5G connectivity.",
+    "price": "$1099",
+    "category": "Smartphone",
+    "color": "Graphite"
+  },
+  {
+    "image": "https://example.com/samsunggalaxyfold2.jpg",
+    "title": "Samsung Galaxy Z Fold 2",
+    "description": "The Samsung Galaxy Z Fold 2 features a 6.2-inch Cover Display and unfolds into a 7.6-inch tablet, offering versatility and productivity.",
+    "price": "$1999",
+    "category": "Foldable Smartphone",
+    "color": "Mystic Bronze"
+  },
+  {
+    "image": "https://example.com/oneplus9.jpg",
+    "title": "OnePlus 9",
+    "description": "The OnePlus 9 features Hasselblad camera technology, a 120Hz Fluid Display, and Warp Charge 65T fast charging.",
+    "price": "$729",
+    "category": "Smartphone",
+    "color": "Arctic Sky"
+  },
+  {
+    "image": "https://example.com/googlepixel4a.jpg",
+    "title": "Google Pixel 4a",
+    "description": "The Google Pixel 4a offers a compact design, a powerful camera, and a pure Android experience at an affordable price.",
+    "price": "$349",
+    "color":"sky Blue"
+  }
+]

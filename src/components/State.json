@@ -1,0 +1,22 @@
+[
+    {
+        "state": "Rajasthan",
+        "city": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner", "Bharatpur"]
+    },
+    {
+        "state": "Andhra Pradesh",
+        "city": ["Visakhapatnam", "Vijayawada", "Guntur", "Nellore", "Kurnool"]
+    },
+    {
+        "state": "Assam",
+        "city": ["Guwahati", "Silchar", "Dibrugarh", "Jorhat", "Nagaon"]
+    },
+    {
+        "state": "Bihar",
+        "city": ["Patna", "Gaya", "Bhagalpur", "Muzaffarpur", "Purnia"]
+    },
+    {
+        "state": "Gujarat",
+        "city": ["Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar"]
+    }
+]
